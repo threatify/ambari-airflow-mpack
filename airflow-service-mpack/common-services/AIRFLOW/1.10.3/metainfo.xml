@@ -77,7 +77,7 @@
 						<package><name>python-devel</name></package>
 						<package><name>sqlite-devel</name></package>
 						<package><name>openssl-devel</name></package>
-						<package><name>mysql-devel</name></package>
+						<package><name>mysql-community-devel</name></package>
 						<package><name>python-pip</name></package>
 						<package><name>zlib-devel</name></package>
 						<package><name>bzip2-devel</name></package>
